@@ -1,0 +1,14 @@
+Sender: adiledd, Receiver: adiledd, Amount: +5403.56 DH, Date: 2024-02-24 18:51:06.074335
+Sender: adiledd, Receiver: hamza123, Amount: 1500.0 DH, Date: 2024-02-24 18:53:00.383040
+Sender: hamza123, Receiver: hamza123, Amount: +500.0 DH, Date: 2024-02-24 18:53:47.290815
+Sender: hamza123, Receiver: hamza123, Amount: +2500.0 DH, Date: 2024-02-25 14:16:59.341648
+Sender: hamza123, Receiver: hamza123, Amount: -205.69 DH, Date: 2024-02-25 14:17:33.003517
+Sender: hamza123, Receiver: adiledd, Amount: 500.0 DH, Date: 2024-02-25 14:18:42.623976
+Sender: yassine123, Receiver: yassine123, Amount: +5000.0 DH, Date: 2024-02-25 16:47:49.663958
+Sender: yassine123, Receiver: yassine123, Amount: +200.0 DH, Date: 2024-02-25 16:48:11.929987
+Sender: yassine123, Receiver: yassine123, Amount: -520.0 DH, Date: 2024-02-25 16:48:30.675946
+Sender: yassine123, Receiver: adeledd, Amount: 200.0 DH, Date: 2024-02-25 16:50:05.163638
+Sender: kacimi11, Receiver: kacimi11, Amount: +5000.65 DH, Date: 2024-02-26 11:02:54.760492
+Sender: kacimi11, Receiver: adiledd, Amount: 500.0 DH, Date: 2024-02-26 11:03:28.758208
+Sender: dustol, Receiver: dustol, Amount: +5000.0 DH, Date: 2024-02-27 13:16:56.948092
+Sender: dustol, Receiver: adiledd, Amount: 500.0 DH, Date: 2024-02-27 13:17:30.572929
